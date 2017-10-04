@@ -9,7 +9,6 @@ Drag and drop module for Angular JS with support for touch devices. [`demo`](htt
 
 ### Usage:
 
-- Install: `bower install ngDraggable`
 - Add `angular` and `ngDraggable` to your code:
 
 ```html
